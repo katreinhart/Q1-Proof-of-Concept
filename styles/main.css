@@ -1,0 +1,11 @@
+.price {
+  color: #333;
+}
+
+.product-container {
+  display: flex;
+}
+
+.product-card {
+  background-color: #ddd;
+}

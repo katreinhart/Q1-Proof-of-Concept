@@ -1,0 +1,18 @@
+filters = {
+		"size": [
+			"small",
+			"medium",
+			"large"
+		],
+		"color": [
+			"blue",
+			"purple",
+			"orange",
+			"red",
+			"green"
+		],
+		"type": [
+			"blue",
+			"green"
+		]
+	}

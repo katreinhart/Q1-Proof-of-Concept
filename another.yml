@@ -1,0 +1,15 @@
+filters:
+  type:
+    - chair
+    - bench
+    - table
+  color:
+    - brown
+    - yellow
+    - orange
+    - purple
+    - green
+  style:
+   	- modern
+    - transitional
+    - contemporary
